@@ -1,5 +1,6 @@
 import React from "react";
 import Zoom from "react-reveal/Zoom";
+import Fade from 'react-reveal/Fade';
 import { Container, Row, Col } from "react-bootstrap";
 import js from "../images/js.png";
 import react from "../images/react js.png";
@@ -12,17 +13,63 @@ import bootstrap from "../images/Bootstrap.png";
 import reactbootstrap from '../images/react-bootstrap.png'
 import tailwind from '../images/tailwind.jpg'
 import  router from '../images/router.png'
+// const skills = [
+//   {
+//     name:'Javascript',
+//     img:'../images/js.png'
+//   },
+//   {
+//     name:'React js',
+//     img:'../images/react js.png'
+//   },
+//   {
+//     name:'Express js',
+//     img:'../images/ex.png'
+//   },
+//   {
+//     name:'node js',
+//     img:'../images/nod.png'
+//   },
+//   {
+//     name:'Mongo DB',
+//     img:'../images/mong.png'
+//   },
+//   {
+//     name:'Html',
+//     img:'../images/html.png'
+//   },
+//   {
+//     name:'CSS',
+//     img:'../images/css.png'
+//   },
+//   {
+//     name:'Bootstrap',
+//     img:'../images/Bootstrap.png'
+//   },
+//   {
+//     name:'React Bootstrap',
+//     img:'../images/react-bootstrap.png'
+//   },
+//   {
+//     name:'Tailwind Css',
+//     img:'../images/tailwind.jpg'
+//   },
+//   {
+//     name:'React Router',
+//     img:'../images/router.png'
+//   },
+// ]
 const Skills = () => {
   return (
     <div>
-      <Container className="py-3">
-        <h2 className="display-5 py-4 text-center">My skills</h2>
+      <Container className="p-3">
+      <Fade left> <h2 className="display-5 py-4 text-center">My skills</h2></Fade>
         <Row xs={1} md={2} lg={4} className="g-4">
           <Col>
             <Zoom>
               <div
-                className="d-flex align-items-center shadow justify-content-center p-2"
-                style={{ borderRadius: "8px" }}
+                className="d-flex align-items-center shadow justify-content-center p-2 h-100"
+                style={{ borderRadius: "10px" }}
               >
                 <div>
                   <img
@@ -40,8 +87,8 @@ const Skills = () => {
           <Col>
             <Zoom>
               <div
-                className="d-flex align-items-center shadow justify-content-center p-2"
-                style={{ borderRadius: "8px" }}
+                className="d-flex align-items-center shadow justify-content-center p-2 h-100"
+                style={{ borderRadius: "10px" }}
               >
                 <div>
                   <img
@@ -59,8 +106,8 @@ const Skills = () => {
           <Col>
             <Zoom>
               <div
-                className="d-flex align-items-center shadow justify-content-center p-2"
-                style={{ borderRadius: "8px" }}
+                className="d-flex align-items-center shadow justify-content-center p-2 h-100"
+                style={{ borderRadius: "10px" }}
               >
                 <div>
                   <img
@@ -78,8 +125,8 @@ const Skills = () => {
           <Col>
             <Zoom>
               <div
-                className="d-flex align-items-center shadow justify-content-center p-2"
-                style={{ borderRadius: "8px" }}
+                className="d-flex align-items-center shadow justify-content-center p-2 h-100"
+                style={{ borderRadius: "10px" }}
               >
                 <div>
                   <img
@@ -97,8 +144,8 @@ const Skills = () => {
           <Col>
             <Zoom>
               <div
-                className="d-flex align-items-center shadow justify-content-center p-2"
-                style={{ borderRadius: "8px" }}
+                className="d-flex align-items-center shadow justify-content-center p-2 h-100"
+                style={{ borderRadius: "10px" }}
               >
                 <div>
                   <img
@@ -116,8 +163,8 @@ const Skills = () => {
           <Col>
             <Zoom>
               <div
-                className="d-flex align-items-center shadow justify-content-center p-2"
-                style={{ borderRadius: "8px" }}
+                className="d-flex align-items-center shadow justify-content-center p-2 h-100"
+                style={{ borderRadius: "10px" }}
               >
                 <div>
                   <img
@@ -135,8 +182,8 @@ const Skills = () => {
           <Col>
             <Zoom>
               <div
-                className="d-flex align-items-center shadow justify-content-center p-2"
-                style={{ borderRadius: "8px" }}
+                className="d-flex align-items-center shadow justify-content-center p-2 h-100"
+                style={{ borderRadius: "10px" }}
               >
                 <div>
                   <img
@@ -154,8 +201,8 @@ const Skills = () => {
           <Col>
             <Zoom>
               <div
-                className="d-flex align-items-center shadow justify-content-center p-2"
-                style={{ borderRadius: "8px" }}
+                className="d-flex align-items-center shadow justify-content-center p-2 h-100"
+                style={{ borderRadius: "10px" }}
               >
                 <div>
                   <img
@@ -173,8 +220,8 @@ const Skills = () => {
           <Col>
             <Zoom>
               <div
-                className="d-flex align-items-center shadow justify-content-center p-2"
-                style={{ borderRadius: "8px" }}
+                className="d-flex align-items-center shadow justify-content-center p-2 h-100"
+                style={{ borderRadius: "10px" }}
               >
                 <div>
                   <img
@@ -184,7 +231,7 @@ const Skills = () => {
                   />
                 </div>
                 <div className="ps-2 mt-1">
-                  <p className="fs-5 fw-bold">Bootstrap</p>
+                  <p className="fs-5 fw-bold">React Bootstrap</p>
                 </div>
               </div>
             </Zoom>
@@ -192,8 +239,8 @@ const Skills = () => {
           <Col>
             <Zoom>
               <div
-                className="d-flex align-items-center shadow justify-content-center p-2"
-                style={{ borderRadius: "8px" }}
+                className="d-flex align-items-center shadow justify-content-center p-2 h-100"
+                style={{ borderRadius: "10px" }}
               >
                 <div>
                   <img
@@ -211,8 +258,8 @@ const Skills = () => {
           <Col>
             <Zoom>
               <div
-                className="d-flex align-items-center shadow justify-content-center p-2"
-                style={{ borderRadius: "8px" }}
+                className="d-flex align-items-center shadow justify-content-center p-2 h-100"
+                style={{ borderRadius: "10px" }}
               >
                 <div>
                   <img

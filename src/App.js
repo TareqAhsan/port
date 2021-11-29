@@ -6,6 +6,8 @@ import Header from './Header';
 import Navigation from './Navigation/Navigation';
 import AboutMe from './Navigation/AboutMe/AboutMe';
 import Skills from './Skills/Skills';
+import Projects from './Projects/Projects';
+import MyProjects from './MyProjects/MyProjects';
 // import { Snow } from 'react-snow-particle/lib';
 
 function App() {
@@ -28,6 +30,8 @@ function App() {
        <Header/>
        <AboutMe/>
        <Skills/>
+       {/* <Projects/> */}
+       <MyProjects/>
     </div>
   );
 }

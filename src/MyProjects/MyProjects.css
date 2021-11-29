@@ -1,0 +1,11 @@
+ul{
+    list-style-type: none;
+}
+li {
+    display: inline;
+    cursor: pointer;
+  }
+
+  li:hover{
+      border-bottom: 2px solid red;
+  }

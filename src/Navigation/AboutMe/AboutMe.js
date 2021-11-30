@@ -4,11 +4,11 @@ import { Container, Row, Col, Card, Button } from "react-bootstrap";
 import image from "../../images/ta3.png";
 const AboutMe = () => {
   return (
-    <div className="py-4" style={{ background: "aliceblue" }}>
+    <div className="py-4" style={{ background: "aliceblue" ,height:'100vh'}}>
       <Container>
         <Fade left>
           {" "}
-          <h1 className="text-center py-4 display-5">About me</h1>{" "}
+          <h1 className="text-center py-5 display-5">About me</h1>{" "}
         </Fade>
         <Row xs={1} md={2} className="g-4">
           <Col>

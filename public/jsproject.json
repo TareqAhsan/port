@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Book Archive",
+    "id": 1,
+    "details": "book Archive is a vanilla js project. you can search any types of book here and on your search it gives the result .",
+    "technology": "vanillaJs, bootstrap, html, css",
+    "img": "https://i.ibb.co/DpS8SZv/Screenshot-16.png",
+    "live": "https://book-archive-85c765.netlify.app/",
+    "client": "https://github.com/TareqAhsan/book-archive-6"
+  },
+  {
+    "name": "interactive mac",
+    "id": 2,
+    "details": "Interactive mac book is a vinalla js project that helps you to buy any parts of a macbook when you buy the parts there are some additional charge like shipping charge etc and also give you offer when you apply the Promo Code.",
+    "technology": "vanillaJs, bootstrap, html, css",
+    "img": "https://i.ibb.co/LQw4Spv/mac.png",
+    "live": "https://hopeful-bassi-dff891.netlify.app/",
+    "client": "https://github.com/TareqAhsan/interactive-mac-book"
+  },
+  {
+    "name": "Weather",
+    "id": 3,
+    "details": "Weather app is also a vanilla project that helps you to now any places weather anytime on your search result it shows yu the result of weather.",
+    "technology": "vanillaJs, bootstrap, html, css",
+    "img": "https://i.ibb.co/k23mJg2/Screenshot-20.png",
+    "live": "https://tareqahsan.github.io/weather.js/",
+    "client": "https://github.com/TareqAhsan/weather.js"
+  }
+]

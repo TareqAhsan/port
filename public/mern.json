@@ -1,0 +1,44 @@
+[
+    {
+        "name": "AToZ Service",
+        "img": "https://i.ibb.co/YkxVDyy/Screenshot-40.png",
+        "live": "https://service-system-4e8ac.firebaseapp.com/",
+        "id": 1,
+        "description": "AtoZ service site is a MERN stack site. user can book any service through login & registration (authentication) system, user can search it and software related service And confirm service through payment with card ,can cancel booking and can see his booking list , booking status, And user can give Review, Admin Can make any user(not customer) admin , only admin can manage any booking  , manage any services by category ,can add any new services, admin can add experts, can update book status after payment.",
+        "admin": "https://i.ibb.co/tJcVj8H/Screenshot-45.png",
+        "rev": "https://i.ibb.co/5rh5dcd/Screenshot-47.png",
+        "myorder": "https://i.ibb.co/G7KKDnv/Screenshot-46.png",
+        "myrev": "https://i.ibb.co/DRFTRVw/Screenshot-48.png",
+        "technology": "Reactjs , Custom hook, Context APi,React Router ,Custom css, Bootstrap,Firebase , Expressjs, mongodb, jwt token, Stripe Payment gateway",
+        "client": "",
+        "server": "https://github.com/TareqAhsan/AtoZServicing"
+      },
+  {
+    "name": "sunglassShopBD",
+    "img": "https://i.ibb.co/pJSVKt2/1.png",
+    "live": "https://niche-products-2f8e9.firebaseapp.com/",
+    "id": 2,
+    "description": "Developed a fully functioning Niche Product web app . user can Purchase any Product through login & registration (authentication) system And confirm order through payment with card , cancel order and can see his order list , order status, And user can give Review Admin Can make any user(not customer) admin , only admin can manage any order , manage any product ,can add any new Product.",
+    "admin": "https://i.ibb.co/VgCBfWf/Screenshot-30.png",
+    "rev": "https://i.ibb.co/3cyQhkf/Screenshot-26.png",
+    "myorder": "https://i.ibb.co/pQvp5Tb/Screenshot-28.png",
+    "myrev": "https://i.ibb.co/cXL44LY/Screenshot-27.png",
+    "technology": "Reactjs , Custom hook, Context APi,React Router ,Custom css, Bootstrap,Firebase , Expressjs, mongodb, jwt token, Stripe Payment gateway",
+    "client": "https://github.com/TareqAhsan/niche-product-client",
+    "server": "https://github.com/TareqAhsan/niche-product-server"
+  },
+  {
+    "name": "Adventure Travel",
+    "img": "https://i.ibb.co/RcG3yTx/2.png",
+    "id": 3,
+    "description": "user can place and confirm his booking by login with google as well as he can cancel his booking",
+    "admin": "",
+    "rev": "https://i.ibb.co/3S5pMgt/Screenshot-36.png",
+    "myorder": "https://i.ibb.co/Ytwmx3x/Screenshot-38.png",
+    "myrev": "https://i.ibb.co/RgMT7SD/Screenshot-37.png",
+    "technology": ": Reactjs, hook form, Context APi, Bootstrap, Firebase,Expressjs,Mongodb",
+    "live": "https://assignment---11.firebaseapp.com/",
+    "client": "https://github.com/TareqAhsan/Adventure-Travel-11",
+    "server": "https://github.com/TareqAhsan/Adventure-Travel-11-server"
+  }
+]
